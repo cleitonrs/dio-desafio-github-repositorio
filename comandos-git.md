@@ -20,3 +20,6 @@
 	Comando usado para mesclar todas as alterações no repositório remoto para o repositório local
  - git push:
 	Comando usado para mesclar todas as alterações no repositóro local para o repositório remoto
+
+ - git rflog: 
+	Comando usado para ver o histórico das versões do código.
