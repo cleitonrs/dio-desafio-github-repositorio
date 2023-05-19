@@ -11,7 +11,9 @@
  - git commit:
 	Comando usado para confirmar altereações na Head
  - git status:
-	Comando usado para exibir uma lista de arquivos alterados juntamente com os arquivos que ainda não foram adicionados ou confirmados
+	Comando usado para exibir uma lista de arquivos alterados juntamente com os arquivos que ainda não foram adicionados ou confirmados 
+ - git diff:
+	Comando usado para mostrar as linhas que foram modificadas 
  - git checkout:
 	Comando usado para criar branchs ou alternar entre elas
  - git branch:
